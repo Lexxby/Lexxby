@@ -34,6 +34,9 @@
 
 <br/>
 
+<h3> Codewars stats</h3>
+<a href="https://www.codewars.com/users/Lexxby"><img alt="My codewars stats" src="https://www.codewars.com/users/Lexxby/badges/large"></a>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
